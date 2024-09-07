@@ -10,6 +10,7 @@
 - ## Project Overview
 ---
 This project involved using E-Commerce Sales Data to develop a custom dashboard. I started by constructing a data moddelling then, I created a power query to analyze and clean the data, and built the final dashboard to effectively present the insights
+![E-Commerce Dashboard](https://github.com/user-attachments/assets/bb9f7b6a-cea1-4c97-9ac9-48bd76499d59)
 
 
 
