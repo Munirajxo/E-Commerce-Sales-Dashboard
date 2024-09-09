@@ -20,7 +20,7 @@ This dashboard enables data-driven decision-making for enhanced business strateg
 
 ### Tools 
 ---
-- Powerbi -For cleaning the data using power query and dax functions to clean and analyze the data and Built a interactive dashboard 
+- Powerbi -For cleaning the data using power query and dax functions to clean and analyze the data and Built a interactive dashboard.
 
 
 
@@ -31,7 +31,7 @@ In the initial preparation phase, We performed following tasks:
 2. Handling Missing and Duplicate Data: Addressed missing values by imputing or removing incomplete records and eliminated duplicates to ensure data accuracy.
 3. Standardizing Formats: Ensured consistent formats for dates, numerical values, and categorical fields across the dataset.
 4. Outlier Detection: Identified and managed outliers to prevent skewed analysis results.
-5. Calculated Fields: Utilized DAX functions to create calculated columns and measures, enhancing analysis with metrics like total sales and average order value
+5. Calculated Fields: Utilized DAX functions to create calculated columns and measures, enhancing analysis with metrics like total sales and average order value.
 
 
    
@@ -42,13 +42,13 @@ In the initial preparation phase, We performed following tasks:
 3. Data cleaning in Power Query.
 4. How to create a Date Table in Power BI.
 5. Time Intelligence function (TOTALYTD, SAMEPERIODLASTYEAR, etc).
-6. Creating Dynamic and Complex KPI's
-7. Basic to Advanced Dax Queries
-8. Conditional Formatting's, Adding dynamic icons in Power Bl
-9. Different DAX functions like Calculate, Sum, Sumx, Filter, values, selectedvalue, return, concatenate, divide, var, etc
-10. Creating different charts, maps and formatting then
-11. Generating insights from charts
-12. Export report
+6. Creating Dynamic and Complex KPI's.
+7. Basic to Advanced Dax Queries.
+8. Conditional Formatting's, Adding dynamic icons in Power Bl.
+9. Different DAX functions like Calculate, Sum, Sumx, Filter, values, selectedvalue, return, concatenate, divide, var, etc.
+10. Creating different charts, maps and formatting.
+11. Generating insights from charts.
+12. Export report.
 
 
 
