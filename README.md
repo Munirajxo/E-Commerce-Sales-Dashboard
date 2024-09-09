@@ -37,18 +37,18 @@ In the initial preparation phase, We performed following tasks:
    
 ### Data Analysis 
 ---
-How to connect Power BI to MS SQL server and Flat Files
-Data Modelling with three tables
-Data cleaning in Power Query
-How to create a Date Table in Power BI
-Time Intelligence function (TOTALYTD, SAMEPERIODLASTYEAR, etc)
-Creating Dynamic and Complex KPI's
-Basic to Advanced Dax Queries
-Conditional Formatting's, Adding dynamic icons in Power Bl
-Different DAX functions like Calculate, Sum, Sumx, Filter, values, selectedvalue, return, concatenate, divide, var, etc
-Creating different charts, maps and formatting then
-Generating insights from charts
-Export report
+1. How to connect Power BI to MS SQL server and Flat Files.
+2. Data Modelling with three tables.
+3. Data cleaning in Power Query.
+4. How to create a Date Table in Power BI.
+5. Time Intelligence function (TOTALYTD, SAMEPERIODLASTYEAR, etc).
+6. Creating Dynamic and Complex KPI's
+7. Basic to Advanced Dax Queries
+8. Conditional Formatting's, Adding dynamic icons in Power Bl
+9. Different DAX functions like Calculate, Sum, Sumx, Filter, values, selectedvalue, return, concatenate, divide, var, etc
+10. Creating different charts, maps and formatting then
+11. Generating insights from charts
+12. Export report
 
 
 
