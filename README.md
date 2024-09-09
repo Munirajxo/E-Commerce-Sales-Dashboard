@@ -9,7 +9,11 @@
 - [Recommendations](#recommendations)
 - ## Project Overview
 ---
-This project involved using E-Commerce Sales Data to develop a custom dashboard. I started by constructing a data moddelling then, I created a power query to analyze and clean the data, and built the final dashboard to effectively present the insights
+This project showcases a custom-built dashboard developed using an extensive E-Commerce sales dataset. The goal was to transform raw sales data into actionable insights, helping stakeholders better understand business trends, customer behavior, and sales performance.
+
+I began by constructing a comprehensive data model to structure the information, followed by leveraging Power Query to clean, analyze, and prepare the dataset for deeper analysis. The final step was designing an intuitive and interactive dashboard using Power BI to effectively present key insights, such as sales trends, customer segmentation, and product performance.
+
+This dashboard enables data-driven decision-making for enhanced business strategy and operational efficiency.
 ![E-Commerce Dashboard](https://github.com/user-attachments/assets/bb9f7b6a-cea1-4c97-9ac9-48bd76499d59)
 
 
@@ -23,9 +27,11 @@ This project involved using E-Commerce Sales Data to develop a custom dashboard.
 ### Data Cleaning
 ---
 In the initial preparation phase, We performed following tasks:
-1. Build and connected a database using data modelling.
-2. Cleand and organized data using Power query and Dax Measures.
-3. Data cleaning and formatting.
+1. Data Structuring: Loaded raw data into Power BI and structured it using data modeling to define relationships between tables.
+2. Handling Missing and Duplicate Data: Addressed missing values by imputing or removing incomplete records and eliminated duplicates to ensure data accuracy.
+3. Standardizing Formats: Ensured consistent formats for dates, numerical values, and categorical fields across the dataset.
+4. Outlier Detection: Identified and managed outliers to prevent skewed analysis results.
+5. Calculated Fields: Utilized DAX functions to create calculated columns and measures, enhancing analysis with metrics like total sales and average order value
 
 
    
