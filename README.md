@@ -9,7 +9,7 @@
 - [Results](#results)
 - [Recommendations](#recommendations)
 - ## Problem Statement
-- A US-based eCommerce company requires the development of a comprehensive Sales Dashboard to track and analyze Year-to-Date (YTD) performance across multiple metrics. The dashboard should provide key insights and visualizations to support data-driven decision-making in the following areas:
+- ### A US-based eCommerce company requires the development of a comprehensive Sales Dashboard to track and analyze Year-to-Date (YTD) performance across multiple metrics. The dashboard should provide key insights and visualizations to support data-driven decision-making in the following areas:
 - KPI Banner: Display YTD Sales, YTD Profit, YTD Quantity Sold, and YTD Profit Margin, along with Year-over-Year (YoY) growth for each KPI. Include sparklines to illustrate monthly trends for these metrics.
 - Customer Category Analysis: Present YTD Sales, Previous Year YTD (PYTD) Sales, and YoY Sales growth for different customer categories. Include trend icons to highlight performance changes.
 - State-wise Sales Performance: Show YTD Sales performance for each state to identify top-performing and underperforming states.
