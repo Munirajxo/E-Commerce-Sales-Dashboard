@@ -54,20 +54,21 @@ In the initial preparation phase, We performed following tasks:
 
 ### Results
 ---
-- Compensation Increase: The compensation rate increased by $0.68 per hour, amounting to $1,414.40 increase per year for non-smokers, within a budget of $983,221.
-- Highest Absenteeism: 3 individuals had the highest absenteeism rates.
-- Weekly Absenteeism: Across all 5 days of the week, the sum of absenteeism time in hours ranged from 553 to 1489.
-- Percentage Contribution: The 3 individuals accounted for 14.93% of the total absenteeism time in hours.
-- Monthly and Weekly Analysis: Analyzed absenteeism by month and by day of the week.
-- Reasons for Absenteeism: Identified reasons for taking leave.
+- Sales and Profit Trends: Year-to-date (YTD) sales decreased by 0.83%, while the profit rose by 4.50%. Despite a 7.29% drop in sales quantity, the profit margin improved by 5.37%.
+- Regional Performance: The West region had the highest sales, accounting for 32%, whereas the South region saw the lowest sales at 16%.
+- Shipping Type Insights: Standard Class had the highest usage at 61%, while Same Day shipping was the least used, representing only 6% of shipments.
+- Monthly Sales Comparison: October had the highest sales of the year, with a 49.32% higher total than December, which saw the lowest sales. October also contributed 10.35% of the total profit per order.
+- Product Category Performance: Technology and Furniture sales decreased by 1.37% and 1.22%, respectively, while Office Supplies showed the highest profit and profit margin.
+- Segment Profitability: The Customer segment achieved the highest profit ($713k) and profit margin (11.92%), while the Corporate segment underperformed across all categories.
+- Year-over-Year Profit Growth: The overall profit increased by $1.34 million compared to the previous year, with an 11.58% rise in profit margin.
 
 
 
 ### Recommendations
 ---
-- Focus on high absenteeism individuals with personalized wellness programs.
-- Adjust wage increases based on performance and health metrics.
-- Investigate and address the causes of high absenteeism on specific days and months.
-- Consider flexible scheduling or remote work options to reduce absenteeism.
-- Implement flexible work policies to accommodate employee needs.
+- Boost Sales in Low-Performing Regions: Implement targeted marketing and promotions in the South region, which has the lowest sales (16%), to stimulate growth and increase market share.
+- Optimize Shipping Strategy: Enhance the efficiency of Standard Class shipping (61%) and encourage the adoption of Same Day shipping through discounts or faster delivery perks to diversify shipping options.
+- Seasonal Sales Campaign: Since December has the lowest sales, launch targeted promotions and holiday campaigns during this month to increase revenue and close the sales gap with higher-performing months like October.
+- Revitalize Declining Categories: With Technology and Furniture sales declining, introduce new products, bundles, or targeted discounts to stimulate demand and reverse the downward trend.
+- Capitalize on Customer Segment Success: Expand personalized offers, loyalty programs, and customer engagement strategies for the Customer segment, which has the highest profit and profit margin, to further drive profitability.
 
