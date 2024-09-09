@@ -1,12 +1,24 @@
 # E-Commerce-Sales-Dashboard
 
 ## Table of Contents 
+- [Peoblem Statement](#problem-statement)
 - [Project Overview](#project-overview)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
+- ## Problem Statement
+- A US-based eCommerce company requires the development of a comprehensive Sales Dashboard to track and analyze Year-to-Date (YTD) performance across multiple metrics. The dashboard should provide key insights and visualizations to support data-driven decision-making in the following areas:
+- KPI Banner: Display YTD Sales, YTD Profit, YTD Quantity Sold, and YTD Profit Margin, along with Year-over-Year (YoY) growth for each KPI. Include sparklines to illustrate monthly trends for these metrics.
+- Customer Category Analysis: Present YTD Sales, Previous Year YTD (PYTD) Sales, and YoY Sales growth for different customer categories. Include trend icons to highlight performance changes.
+- State-wise Sales Performance: Show YTD Sales performance for each state to identify top-performing and underperforming states.
+- Product Performance: Identify and display the top 5 and bottom 5 products based on sales performance.
+- Regional Sales Analysis: Compare YTD Sales by region to determine the best and worst-performing regions across the country.
+- Shipping Type Analysis: Analyze YTD Sales by shipping type to identify the most popular and efficient shipping methods, along with their percentages.
+
+
+
 - ## Project Overview
 ---
 This project showcases a custom-built dashboard developed using an extensive E-Commerce sales dataset. The goal was to transform raw sales data into actionable insights, helping stakeholders better understand business trends, customer behavior, and sales performance.
