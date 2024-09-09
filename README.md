@@ -1,7 +1,7 @@
 # E-Commerce-Sales-Dashboard
 
 ## Table of Contents 
-- [Peoblem Statement](#problem-statement)
+- [Problem Statement](#problem-statement)
 - [Project Overview](#project-overview)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
